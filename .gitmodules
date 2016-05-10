@@ -1,5 +1,6 @@
 [submodule "hello"]
 	path = hello
 	url = git@github.com:yeonjong/hello.git
+	branch = hellobranch
 [submodules "hello"]
 	branch = hellobranch
